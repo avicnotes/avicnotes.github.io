@@ -3,8 +3,6 @@
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-
-
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
 [![GitHub contributors](https://img.shields.io/github/contributors/alshedivat/al-folio.svg)](https://github.com/alshedivat/al-folio/graphs/contributors/)
@@ -115,7 +113,6 @@ Feel free to add your own page(s) by sending a PR.
 <tr>
 <td>Labs</td>
 <td>
-  
 <a href="https://www.haylab.caltech.edu/" target="_blank">★</a>
 <a href="https://sjkimlab.github.io/" target="_blank">★</a>
 <a href="https://systemconsultantgroup.github.io/scg-folio/" target="_blank">★</a>

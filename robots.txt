@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://avicnotes.github.io/al-folio/sitemap.xml
+Sitemap: https://avicndugu.github.io/al-folio/sitemap.xml
